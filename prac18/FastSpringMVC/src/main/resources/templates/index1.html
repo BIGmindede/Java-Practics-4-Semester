@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All universities</title>
+</head>
+<body>
+
+<div th:each="university : ${universities}">
+  <p th:text="${university.getName()} + ' ' + ${university.getCreationDate()}">university</p>
+</div>
+
+
+<br/>
+<hr/>
+
+<a href="/universities/new">Create new university</a>
+</body>
+</html>

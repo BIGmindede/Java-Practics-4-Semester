@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb5aa645-8633-4bbb-89ad-21562c7beb4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../prac10/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prac09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Sem4Lab_09-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/models/ConcreteProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/models/ConcreteProgrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/models/Junior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/models/Junior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/models/Middle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/models/Middle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/models/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/models/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/main/java/ru/matrosov/prac10/models/Senior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/main/java/ru/khitrov/prac10/models/Senior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/src/test/java/ru/matrosov/prac10/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac10/src/test/java/ru/khitrov/prac10/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/config/BeanConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/models/ConcreteProgrammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/models/Junior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/models/Middle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/models/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac10/target/classes/ru/matrosov/prac10/models/Senior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac11/src/main/java/ru/matrosov/javaPrac/prac11/Prac11Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac11/src/main/java/ru/khitrov/javaPrac/prac11/Prac11Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac11/src/main/java/ru/matrosov/javaPrac/prac11/controllers/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac11/src/main/java/ru/khitrov/javaPrac/prac11/controllers/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac11/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../prac11/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac11/src/test/java/ru/matrosov/javaPrac/prac11/Prac11ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac11/src/test/java/ru/khitrov/javaPrac/prac11/Prac11ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac12/src/main/java/ru/matrosov/javapracs/prac12/MD5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac12/src/main/java/ru/khitrov/javapracs/prac12/MD5Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac12/src/main/java/ru/matrosov/javapracs/prac12/Prac12Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac12/src/main/java/ru/khitrov/javapracs/prac12/Prac12Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac12/src/main/java/ru/matrosov/javapracs/prac12/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac12/src/main/java/ru/khitrov/javapracs/prac12/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac12/src/test/java/ru/matrosov/javapracs/prac12/Prac12ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac12/src/test/java/ru/khitrov/javapracs/prac12/Prac12ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac13/src/main/java/ru/matrosov/javapracs/prac13/Prac13Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac13/src/main/java/ru/khitrov/javapracs/prac13/Prac13Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac13/src/main/java/ru/matrosov/javapracs/prac13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac13/src/main/java/ru/khitrov/javapracs/prac13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac13/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac13/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac13/src/test/java/ru/matrosov/javapracs/prac13/Prac13ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac13/src/test/java/ru/khitrov/javapracs/prac13/Prac13ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/Prac14Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/Prac14Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/controllers/InfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/controllers/InfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/controllers/UniversityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/controllers/UniversityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/java/ru/matrosov/javaprecs/prac14/models/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/java/ru/khitrov/javaprecs/prac14/models/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/main/resources/templates/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/main/resources/templates/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac14/src/test/java/ru/matrosov/javaprecs/prac14/Prac14ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac14/src/test/java/ru/khitrov/javaprecs/prac14/Prac14ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/Prac14Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/Prac14Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/controllers/InfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/controllers/InfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/controllers/UniversityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/controllers/UniversityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/dao/UniversityDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/dao/UniversityDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/java/ru/matrosov/javaprecs/prac14/models/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/java/ru/khitrov/javaprecs/prac14/models/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac15/src/test/java/ru/matrosov/javaprecs/prac14/Prac14ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac15/src/test/java/ru/khitrov/javaprecs/prac14/Prac14ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac16Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac16Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac16ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac16/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac16ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac17Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac17Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac17ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac17/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac17ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac18Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac18Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac18/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac19Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac19Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac19/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac20Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac20Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ProfilingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ProfilingConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LogExecutionTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LogExecutionTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac20/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac20Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac20Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/MailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/MailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ProfilingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ProfilingConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LogExecutionTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LogExecutionTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac21/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac20Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac20Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/MailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/MailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ProfilingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ProfilingConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ScheduleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ScheduleConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/ScheduleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LogExecutionTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LogExecutionTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac22/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__io_jsonwebtoken_jjwt_api_0_11_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__io_jsonwebtoken_jjwt_impl_0_11_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__io_jsonwebtoken_jjwt_jackson_0_11_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_eclipse_angus_angus_activation_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_1_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_postgresql_postgresql_42_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_security_spring_security_config_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_security_spring_security_core_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_security_spring_security_test_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_security_spring_security_web_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_aop_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_aspects_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_beans_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_context_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_core_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_expression_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_orm_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_test_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_tx_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_web_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/prac23v2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac23v2/spring-boot-3-jwt-security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/application.2023-0328.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/application.2023-0329.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/application.2023-0330.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/Prac20Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/Prac20Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/MailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/MailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ProfilingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ProfilingConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/config/ScheduleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/config/ScheduleConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/DogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/DogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/ScheduleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LogExecutionTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LogExecutionTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/matrosov/javapracs/util/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/main/java/ru/khitrov/javapracs/util/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/test/java/ru/matrosov/javapracs/Prac18ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/test/java/ru/khitrov/javapracs/Prac18ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/test/java/ru/matrosov/javapracs/StudentServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac24/FastSpringMVC/src/test/java/ru/khitrov/javapracs/StudentServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QFuZTEAQDqbkCNQ9v4m9V3yW3d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prac11" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb5aa645-8633-4bbb-89ad-21562c7beb4f" name="Changes" comment="" />
+      <created>1684961706953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684961706953</updated>
+      <workItem from="1684961708880" duration="348000" />
+      <workItem from="1686096369959" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
